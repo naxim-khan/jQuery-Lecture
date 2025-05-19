@@ -1,3 +1,5 @@
+// jquery notes link https://www.notion.so/J-Query-1f8af5da3a0a80c09123ccd5081e24f6?pvs=4
+
 // you can call jQuery with the $ sign or jQuery they are the same.
 
 // selecting elements with jQuery
