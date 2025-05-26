@@ -1,1 +1,4 @@
 https://www.notion.so/PHP-Course-Notes-1f9af5da3a0a80a7b3cfe61008e35839?pvs=4
+
+PHP Notes ⤵️
+https://www.notion.so/Laravel-Notes-1ffaf5da3a0a8013a30ed85a04debd47?pvs=4
